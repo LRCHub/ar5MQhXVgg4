@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Lua de Sangue (Akaza, Douma & Kokushibo)",
+  "base_artist": "Okabe",
+  "createdAt": "2026-03-18T14:26:28.917429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lua de Sangue (Akaza, Douma & Kokushibo)",
+      "artist": "Okabe",
+      "has_synced": true,
+      "path": "select/01_Lua_de_Sangue_(Akaza,_Douma_&_Kokushibo)_Okabe.lrc"
+    }
+  ]
+}
